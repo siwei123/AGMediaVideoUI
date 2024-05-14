@@ -1,2 +1,2 @@
-# AGMediaVideoUI-0.1.1
+# AGMediaVideoUI-0.1.2
 AGMediaVideoUI
