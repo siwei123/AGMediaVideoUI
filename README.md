@@ -1,2 +1,2 @@
-# AGMediaVideoUI-0.2.9
+# AGMediaVideoUI-0.3.0
 AGMediaVideoUI
